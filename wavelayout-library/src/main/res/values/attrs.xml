@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaveLayout">
+        <attr name="wl_color" format="color" />
+        <attr name="wl_strokeWidth" format="dimension" />
+        <attr name="wl_radius" format="dimension" />
+        <attr name="wl_duration" format="integer" />
+        <attr name="wl_amount" format="integer" />
+        <attr name="wl_scale" format="float" />
+        <attr name="wl_correctionX" format="dimension" />
+        <attr name="wl_correctionY" format="dimension" />
+        <attr name="wl_autoStart" format="boolean" />
+        <attr name="wl_style" format="enum">
+            <enum name="fill" value="0" />
+            <enum name="stroke" value="1" />
+        </attr>
+
+        <attr name="wl_direction" format="enum">
+            <enum name="inWards" value="0" />
+            <enum name="outWards" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>
