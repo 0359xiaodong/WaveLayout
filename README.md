@@ -18,6 +18,7 @@ waveLayout.start();
 Developed by
 -------
 Héctor de Isidro - hrules6872 [![Twitter](http://img.shields.io/badge/contact-@h_rules-blue.svg?style=flat)](http://twitter.com/h_rules)
+Based on [skyfishjy's](https://github.com/skyfishjy/android-ripple-background) work. Thank you!
 
 License
 -------
